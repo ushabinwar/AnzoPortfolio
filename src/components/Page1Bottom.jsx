@@ -12,7 +12,7 @@ const Page1Bottom = () => {
     })
   })
   return (
-    <div className='absolute bottom-0 left-0 px-24  py-14 w-full  flex items-end justify-between'>
+    <div className='absolute bottom-0 left-0 px-16  py-10 w-full  flex items-end justify-between'>
       <div>
         <h2 className='text-[1.3vw] font-[anzo2] leading-5'>BRAND DESIGN | WEBSITE DESIGN</h2>
         <h3 className='text-[1.3vw] font-[anzo3] text-gray-400'> BESPOKE FREELANCE</h3>

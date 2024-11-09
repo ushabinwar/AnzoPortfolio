@@ -30,6 +30,15 @@
   position: relative;
   perspective: 1000px;
 }
+
+#section2{
+  position: relative;
+  perspective: 3000px;
+}
+.rotateText{
+  /* background-color: rebeccapurple;  */
+  transform-origin: 50% 70%;
+}
 #tiltDiv{
   /* background-color: red; */
   width: fit-content;
